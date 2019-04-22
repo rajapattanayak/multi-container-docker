@@ -1,0 +1,1 @@
+Test multi containers docker deployement to Elastic Bean stak using docker hub. Images are: NGINX, Redis, Postgres, NodeJS, ReactWebApp
