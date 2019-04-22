@@ -1,1 +1,2 @@
-Test multi containers docker deployement to Elastic Bean stak using docker hub. Images are: NGINX, Redis, Postgres, NodeJS, ReactWebApp
+Test multi containers docker deployement to ElasticBeanstalk using docker hub. Images are: NGINX, Redis, Postgres, NodeJS, ReactWebApp.
+Request first comes to nginx then redirect to either react running on nginx or express running on nodejs. Redis being used to cache the result. Postgres stores data.
